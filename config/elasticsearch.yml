@@ -1,0 +1,3 @@
+cluster.name: mmelasticsearch
+bootstrap.mlockall: true
+script.disable_dynamic: false
